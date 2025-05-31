@@ -1,0 +1,4 @@
+djangorestframework
+Pillow                # For image fields in models
+python-dotenv         # For .env environment variable support
+django-cors-headers   # For handling CORS in APIs (useful for frontend-backend integration)
